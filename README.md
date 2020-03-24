@@ -13,7 +13,10 @@ Accuracy Achieved :-    70.2%
 Feel free to change the code and use any other algorithm of your choice.
 
 ## Confusion Matrix
-![](conusion_matrix.png)
+![](confusion_matrix.png)
 
 
 **Note:-** This model is in no way to be used for actually classifying patients, as the accuracy is not good enough for that.
+
+
+Keep chasing your dreams ! ⭐️
